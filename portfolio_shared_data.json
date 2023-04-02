@@ -1,0 +1,53 @@
+{
+    "basic_info": {
+      "name": "Akhil Gupta",
+      "titles": [ "Full-Stack Developer", "Climate Technologist", "Hacker"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/akhilgupta1093",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Go",
+          "class": "devicon-go-plain",
+          "level": "90"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
+          "level": "90"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "85"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Ruby on Rails",
+          "class": "devicon-rails-plain",
+          "level": "50"
+        }
+      ]
+    }
+  }
